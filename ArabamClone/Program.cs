@@ -1,5 +1,6 @@
 using ArabamClone.Model.Data;
 using ArabamClone.Repository;
+using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -134,3 +134,8 @@ C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\obj\Debug\net7.0\refint\ArabamCl
 C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\obj\Debug\net7.0\ArabamClone.pdb
 C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\obj\Debug\net7.0\ArabamClone.genruntimeconfig.cache
 C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\obj\Debug\net7.0\ref\ArabamClone.dll
+C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Ozmert\Desktop\ArabamClone\ArabamClone\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

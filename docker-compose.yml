@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  arabamclone:
+    image: ${DOCKER_REGISTRY-}arabamclone
+    build:
+      context: .
+      dockerfile: ArabamClone\Dockerfile

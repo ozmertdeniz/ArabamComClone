@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabamClone", "ArabamClone\ArabamClone.csproj", "{591D0557-1698-4C8C-BC8F-253282C8F4A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591D0557-1698-4C8C-BC8F-253282C8F4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591D0557-1698-4C8C-BC8F-253282C8F4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591D0557-1698-4C8C-BC8F-253282C8F4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591D0557-1698-4C8C-BC8F-253282C8F4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D515962A-2A92-4130-9EDF-BA8BED4150C2}
+	EndGlobalSection
+EndGlobal
